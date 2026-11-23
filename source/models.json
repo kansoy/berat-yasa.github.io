@@ -1,0 +1,46 @@
+[
+  {
+    "id": "vector",
+    "source": "https://openstax.org/books/university-physics-volume-1/pages/2-2-coordinate-systems-and-components-of-a-vector",
+    "publisher": "OpenStax",
+    "formula": "Fₓ = F cos θ,   Fᵧ = F sin θ",
+    "min": 0,
+    "max": 180,
+    "step": 1,
+    "initial": 35,
+    "unit": "°"
+  },
+  {
+    "id": "divider",
+    "source": "https://wiki.analog.com/university/courses/alm1k/circuits1/alm-cir-2",
+    "publisher": "Analog Devices",
+    "formula": "Vₒ = Vₛ R₂ / (R₁ + R₂)",
+    "min": 1,
+    "max": 15,
+    "step": 0.5,
+    "initial": 5,
+    "unit": " kΩ"
+  },
+  {
+    "id": "ohm",
+    "source": "https://openstax.org/books/university-physics-volume-2/pages/9-4-ohms-law",
+    "publisher": "OpenStax",
+    "formula": "I = V / R",
+    "min": 0,
+    "max": 5,
+    "step": 0.1,
+    "initial": 3.3,
+    "unit": " V"
+  },
+  {
+    "id": "sine",
+    "source": "https://openstax.org/books/university-physics-volume-2/pages/15-1-ac-sources",
+    "publisher": "OpenStax",
+    "formula": "v(t) = Vₚ sin(2πft)",
+    "min": 1,
+    "max": 5,
+    "step": 0.25,
+    "initial": 2,
+    "unit": " Hz"
+  }
+]

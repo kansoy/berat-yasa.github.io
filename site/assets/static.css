@@ -1,0 +1,3 @@
+.tabs,.range-area{display:none}
+.model-note[hidden]{display:block!important}
+.model-note+.model-note{border-top:1px solid #c7d4dd;padding-top:14px;margin-top:14px}
